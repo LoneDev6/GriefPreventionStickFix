@@ -1,0 +1,7 @@
+name: GriefPreventionStickFix
+version: 1.0-r2
+main: dev.lone.GriefPreventionStickFix.Main
+api-version: 1.13
+depend:
+  - ProtocolLib
+  - LoneLibs
